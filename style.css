@@ -1,0 +1,20 @@
+.button{
+    border-radius: 10px; 
+    color: pink;
+    border:1px solid pink;
+    padding: 0 25px;
+    font-size: 18px;
+}
+.button2{
+    border-radius: 50%;
+    background-color: aqua;
+    color: white;
+    border: 0px;
+    padding: 8px 12px;
+    font-size: 15px;
+}
+.create{
+    background-color: blue;
+    box-shadow: 5px 5px grey; border: 1px solid black;
+    color: white;
+}
